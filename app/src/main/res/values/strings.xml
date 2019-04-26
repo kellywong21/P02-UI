@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Adventure Learning Club</string>
+    <string name = "confirm">CONFIRM NOW</string>
+    <string name="testString">Test</string>
+    <string name = "fullname" >Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="studentid">Student ID</string>
+    <string name="school">School</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="FEMALE">Female</string>
+    <string name="male">Male</string>
+</resources>
